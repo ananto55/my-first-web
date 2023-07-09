@@ -1,0 +1,23 @@
+li:hover{
+    color: red;
+    cursor: pointer;
+
+}
+.logo{
+    display:  flex;
+    
+    margin-right: 10px;
+    
+    justify-content: end;
+}
+li{
+list-style-type: none;
+margin: 10px;
+padding: 2px;
+color: bisque;
+font-size: 20px;
+
+background-image: url('https://www.seekpng.com/png/full/130-1300631_light-green-button-png.png');
+background-size: contain;
+
+}
